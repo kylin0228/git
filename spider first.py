@@ -36,3 +36,5 @@ def main():
     fillUnivList(uinfo,html)
     printUnivLis
 main()
+
+exo = 10
